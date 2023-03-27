@@ -13,8 +13,8 @@ This repository contains the the block-based code for the T bot.
 
 The TeleOp code provided allows the robot to drive in Tank Mode (Both joysticks on the controller).
 
-The following folders are available in the repository:
+The following files are available in the repository:
 
-- Block-Based Code: Contains the .blk files for the TeleOp
-- Block-Based Images: Contains images of the blocks for the TeleOp block-based code
+- TeleOp .blk block-based code file
+- Block-Based Images image of the TeleOp Code
 - Hardware Configuration: Contains detailed information and hardware configuration
